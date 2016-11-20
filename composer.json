@@ -1,0 +1,19 @@
+{
+  "name": "Magezoo/cat",
+  "description": "testing for fun",
+  "keywords": ["test"],
+  "homepage": "https://github.com/shubaduwa/Magento2",
+  "type": "library",
+  "license": "MIT",
+  "version": "1.0.3",
+"authors": [
+    {
+      "name": "shubaduwa",
+      "email": "shubaduwa@gmail.com",
+      "homepage": "https://github.com/shubaduwa/Magento2"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0"
+  }
+}
